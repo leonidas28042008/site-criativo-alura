@@ -21,7 +21,8 @@
     <section class="escola">
         <div class="escola-div-conteudo">
             <h2 class="escola-titulo">Sobre a Escola</h2>
-            <p class="escola-texto-um">A Escola Alura foi fundada em 2010 e tem como objetivo ensinar Pensamento Computacional, através do ensino de  Programação.</p>
+            <p class="escola-texto-um">O colégio Milton Carneiro foi fundada em 1991, e hoje ela é militar.
+A escola vem ganhando fama pelo seu regime cívico-militar com regras,segurança e aconchego, tornando um ambiente de primeira, cada vez mais agrádavel , para a convivência de professores, alunos e responsáveis. Os lanches são de boas qualidades, limpeza constante, qualidadede produtos da escola e um bom apredizado, está presente em todos os momentos. VENHA VÔCE TAMBÉM PARTIPAR DE UM BOM APRENDIZADO</p>
             <p class="escola-texto-dois">A turma mais estudiosa e famosa é a Segunda Série A. Nós somos super unidos e a turma favorita por todos os professores e professoras que nos ajudam!</p>
         </div>
         <img class="escola-imagem" src="Formula-bro.png" alt="imagem que representa uma professora em sala de aula">
