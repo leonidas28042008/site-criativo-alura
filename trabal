@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CCM Milton Carneiro</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="cabecalho">
+        <img class="cabecalho-imagem" src="images (1).jpeg" alt="logo da CCM Milton">
+        <ul class="cabecalho-lista">
+            <li class="cabecalho-lista-item">Escola</li>
+            <li class="cabecalho-lista-item">Estudante</li>
+        </ul>
+    </header>
+    <section class="escola">
+        <div class="escola-div-conteudo">
+            <h2 class="escola-titulo">Sobre a Escola</h2>
+            <p class="escola-texto-um">O colégio Milton Carneiro foi fundada em 1991, e hoje ela é militar.
+                A escola vem ganhando fama pelo seu regime cívico-militar com regras,segurança e aconchego,tornando um ambiente de primeira, cada vez mais agrádavel , para a convivência de professores, alunos e responsáveis.Os lanches são de boas qualidades, limpeza constante, qualidadede produtos da escola e um bom apredizado, está presente em todos os momentos. VENHA VÔCE TAMBÉM PARTIPAR DE UM BOM APRENDIZADO</p>
+        </div>
+        <img class="escola-imagem" src="images.jpeg" alt="imagem da cultura escolar">
+    </section>
+    <section class="estudante">
+        <h2 class="estudante-titulo">Quem são nossos estudantes?</h2>
+        <div class="estudante-todos">
+        <span></span>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="lucas.jpg" alt="foto do Lucas">
+            <h3 class="estudante-nome">Lucas</h3>
+            <a href=""><img class="estudante-icone" src="voleibol.png" alt="icone voleibol"></a>
+            <a href=""><img class="estudante-icone" src="whatsapp.png" alt="icone whatsapp"></a>
+            <a href=""><img class="estudante-icone" src="livros.png" alt="icone livros"></a>
+        </div>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="civico.webp" alt="foto de soldados">
+            <h3 class="estudante-nome">militares </h3>
+            <a href=""><img class="estudante-icone" src="livros.png" alt="icone livros"></a>
+            <a href=""><img class="estudante-icone" src="seta-de-alvo.png" alt="icone alvo"></a>
+            <a href=""><img class="estudante-icone" src="caminhada.png" alt="icone corrida"></a>
+        </div>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="caloṕicita.jpg" alt="foto do pituco">
+            <h3 class="estudante-nome">pituco</h3>
+            <a href=""><img class="estudante-icone" src="olho.png" alt="icone visao"></a>
+            <a href=""><img class="estudante-icone" src="anjo.png" alt="icone gardioa"></a>
+        </div>
+        <span></span>
+        <span></span>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="gurizada do fundo.jpg" alt="foto da bagunça">
+            <h3 class="estudante-nome">gurizada</h3>
+            <a href=""><img class="estudante-icone" src="caminhada.png" alt="icone corrida"></a>
+            <a href=""><img class="estudante-icone" src="livros.png" alt="icone livros"></a>
+            <a href=""><img class="estudante-icone" src="whatsapp.png" alt="icone whatsapp"></a>
+        </div>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="felipe.jpg" alt="foto do felipe">
+            <h3 class="estudante-nome">felipe</h3>
+            <a href=""><img class="estudante-icone" src="whatsapp.png" alt="icone whatsapp"></a>
+            <a href=""><img class="estudante-icone" src="seta-de-alvo.png" alt="icone seta-de-alvo"></a>
+            <a href=""><img class="estudante-icone" src="livros.png" alt="icone livro"></a>
